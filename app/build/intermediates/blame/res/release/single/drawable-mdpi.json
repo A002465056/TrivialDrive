@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi\\ic_action_search.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    }
+]

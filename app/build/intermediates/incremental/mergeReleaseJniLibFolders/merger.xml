@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Docs\Android_Sdk\extras\google\play_billing\TrivialDrive\app\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="D:\Docs\Android_Sdk\extras\google\play_billing\TrivialDrive\app\src\release\jniLibs"/></dataSet></merger>

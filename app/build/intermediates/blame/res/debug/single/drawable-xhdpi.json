@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wait.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\wait.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\infinite_gas.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\infinite_gas.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\buy_gas.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\buy_gas.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas_inf.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\gas_inf.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas2.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\gas2.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas0.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\gas0.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\upgrade_app.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\upgrade_app.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas3.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\gas3.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas4.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\gas4.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drive.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\drive.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\premium.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\premium.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_search.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\free.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\free.png"
+    },
+    {
+        "merged": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas1.png",
+        "source": "D:\\Docs\\Android_Sdk\\extras\\google\\play_billing\\TrivialDrive\\app\\src\\main\\res\\drawable-xhdpi\\gas1.png"
+    }
+]

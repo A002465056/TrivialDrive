@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TrivialDrive</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sfdsdf">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAungzk4JVq9CcbPQktlma8+b695gdh/TkapdxIHuados97ldworDCCx4kBo9k+LEs24wiFJY6rNNbEdKkyEma4cbyeU9fYiGs9t04ZPXHtibLntrKWfebPBKjjysfKcn4So70MJMH/itrxhGEZ8fEetjEB+D0oR6/K1E69sTcCSz9bvIHGXw/gYfwW9TlSIkaek+bR9pF9yP8spWlcgtuspy6EmBTrcVXSDnXIeNpn8AtdOfyDLdrw5Jaf21Fo1uDZKSJOXaeXAwlxil9DX24BKOn7qY3PYBpR8yS8+PewWfVI72E5nMQlCmMYE/hcW5Lu0EFdB7SQPn5LFF/QiRVsQIDAQAB</string>
+    <string name="title_activity_main">TrivialDrive</string>
+    <style name="AppTheme" parent="android:Theme.Black.NoTitleBar"/>
+</resources>
